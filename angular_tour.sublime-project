@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "file_exclude_patterns": ["*.pyo", ".project", "*.map", "*.js"]
+		}
+	]
+}
